@@ -6,6 +6,5 @@
 #define CONTAINERS_CPP_SRC_S21_CONTAINERS_H_
 
 #include "array.h"
-#include "multiset.h"
 
 #endif  // CONTAINERS_CPP_SRC_S21_CONTAINERS_H_

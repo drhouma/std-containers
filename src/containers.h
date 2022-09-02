@@ -8,7 +8,6 @@
 #include "containerAdaptor.h"
 #include "list.h"
 #include "map.h"
-#include "set.h"
 #include "vector.h"
 
 #endif  // CONTAINERS_CPP_SRC_S21_CONTAINERS_H_
