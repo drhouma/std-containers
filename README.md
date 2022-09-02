@@ -1,2 +1,12 @@
 # std-containers
-My implementation of several template containers
+Реализация некоторых контейнеров из STL
+
+#  Содержание
+В данном проекте я реализовал следующие контейнеры:
+  * array
+  * list
+  * map
+  * set
+  * multiset
+  * vector
+  * stack
